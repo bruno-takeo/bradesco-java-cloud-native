@@ -9,7 +9,7 @@ version = '0.0.1-SNAPSHOT'
 
 java {
     toolchain {
-        languageVersion = JavaLanguageVersion.of(23)  // Verifique se o JDK 23 é necessário ou use uma versão mais comum como 17
+        languageVersion = JavaLanguageVersion.of(17)  // Verifique se o JDK 23 é necessário ou use uma versão mais comum como 17
     }
 }
 
